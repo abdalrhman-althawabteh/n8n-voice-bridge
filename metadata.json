@@ -1,0 +1,7 @@
+{
+  "name": "N8N Voice Bridge",
+  "description": "A beautiful voice-to-text interface that sends audio to n8n webhooks.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
